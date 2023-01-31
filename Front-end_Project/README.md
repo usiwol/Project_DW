@@ -1,5 +1,8 @@
-# 🌈 TravelHasyu project (1031~1110)
+# TravelHasyu-Project
 
-### 👉 주제 : 대전시 관광페이지 만들기
+대전여행하슈 프로젝트🌈 (22.10.31~11.10)
 
-### 👉 팀원 : 이지현, 장영주, 변수정
+<div align=center> 
+<img src="Travel_Hasyu-Project/image/travel.png" width="600">
+</div> 
+<br>
